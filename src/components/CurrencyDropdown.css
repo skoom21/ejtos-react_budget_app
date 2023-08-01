@@ -1,0 +1,18 @@
+.Currency{
+    background-color: #78e4a8;
+    border: 1px solid #ccc;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    padding: 10px;
+    width: 100%;
+  }
+  
+.Currency-Option {
+    padding: 5px;
+    color: #333;
+}
+
+.Currency-Option:checked {
+background-color: #e7e4e4;
+color: #000;
+}
